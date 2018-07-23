@@ -1,7 +1,9 @@
 #### 我注册的组织
 
 > 部分项目会关联到相应的组织中，而不是在 github.com/jiangjiesheng 下
- 
+
+[(√) 国内Gitee代码托管平台 ](https://gitee.com/jiangjiesheng/ "Gitee")
+
 [(√) https://github.com/androidlibraries ](https://github.com/androidlibraries "https://github.com/androidlibraries")
 
 [https://github.com/libs-android](https://github.com/libs-android "https://github.com/libs-android")
