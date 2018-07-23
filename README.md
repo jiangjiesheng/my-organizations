@@ -1,20 +1,23 @@
+#### 我注册的组织
 
-[androidlibraries](https://github.com/androidlibraries "androidlibraries")
+> 部分项目会关联到相应的组织中，而不是在 github.com/jiangjiesheng 下
+ 
+[comandroidlibrarie](https://github.com/androidlibraries "https://github.com/androidlibrarie")
 
-[libs-android](https://github.com/libs-android "libs-android")
+[https://github.com/libs-android](https://github.com/libs-android "https://github.com/libs-android")
 
-[library-java](https://github.com/library-java "library-java")
+[https://github.com/library-java](https://github.com/library-java "https://github.com/library-java")
 
-[fork-project](https://github.com/fork-project "fork-project")
+[https://github.com/fork-project](https://github.com/fork-project "https://github.com/fork-project")
 
-[jiangjieshengcn](https://github.com/jiangjieshengcn "jiangjieshengcn")
+[https://github.com/jiangjieshengcn](https://github.com/jiangjieshengcn "https://github.com/jiangjieshengcn")
 
-[jiangjieshengcom](https://github.com/jiangjieshengcom "jiangjieshengcom")
+[https://github.com/jiangjieshengcom](https://github.com/jiangjieshengcom "https://github.com/jiangjieshengcom")
 
-[jiangjiesheng-libs](https://github.com/jiangjiesheng-libs "jiangjiesheng-libs")
+[https://github.com/jiangjiesheng-libs](https://github.com/jiangjiesheng-libs "https://github.com/jiangjiesheng-libs")
 
-[jiangjiesheng-projects](https://github.com/jiangjiesheng-projects "jiangjiesheng-projects")
+[https://github.com/jiangjiesheng-projects](https://github.com/jiangjiesheng-projects "https://github.com/jiangjiesheng-projects")
 
-[jiangjiesheng-templates](https://github.com/jiangjiesheng-templates "jiangjiesheng-templates")
+[https://github.com/jiangjiesheng-templates](https://github.com/jiangjiesheng-templates "https://github.com/jiangjiesheng-templates")
 
 
